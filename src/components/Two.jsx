@@ -5,7 +5,7 @@ import SecImg1 from '../assets/sec4.jpg'
 import SecImg3 from '../assets/sec5.jpg'
 import Him from '../assets/him.jpg'
 import Water from '../assets/water.jpg'
-import Zer from '../assets/Zer.jpg'
+import exp1 from '../assets/Zer.jpg'
 import surf from '../assets/surf.jpeg'
 import kayak from '../assets/kay.jpeg'
 import scuba from '../assets/deep.jpeg'
@@ -67,7 +67,7 @@ const Two = () => {
                 </div>
               </div>
               <div class="card">
-                  <img height={'185px'} src={Zer} alt="" />
+                  <img height={'185px'} src={exp1} alt="" />
                 <div class="card-container">
                   <h3><b>Zermatt,Switzerland’s</b></h3> 
                   <p>Zermatt is more than a one-mountain wonder. Climbers have been rocking up here since the mid-19th-century </p> 
